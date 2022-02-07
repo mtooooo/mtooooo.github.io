@@ -6,7 +6,7 @@
 #### 软件架构
 软件架构说明
 
-![](https://github.com/mtooooo/mtooooo/raw/master/image/index_image.png)
+![](https://github.com/mtooooo/mtooooo.github.io/raw/master/image/index_image.png)
 
 #### 安装教程
 
