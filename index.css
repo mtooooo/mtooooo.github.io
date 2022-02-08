@@ -35,3 +35,26 @@
 .form {
     width: 200px;
 }
+
+#code_pen {
+    background: #444;
+}
+
+.code_text {
+    margin: 0;
+    padding: 0px;
+    width: 486px;
+    height: 84px;
+}
+
+#login_text {
+    color: azure;
+    background: #444;
+    padding: 10px;
+}
+
+.href {
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
