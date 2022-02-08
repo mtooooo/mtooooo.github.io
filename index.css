@@ -1,0 +1,37 @@
+* {
+    background: black;
+    color: azure;
+    margin: 40px;
+    padding: 20px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.mp0 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.margin_20 {
+    margin-left: 20px;
+}
+
+.head_box {
+    background: #fff;
+}
+
+.href {
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.form {
+    width: 200px;
+}
